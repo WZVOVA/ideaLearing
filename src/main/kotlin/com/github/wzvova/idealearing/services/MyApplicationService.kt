@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wzvova.idealearing.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wzvova.idealearing.MyBundle
 
 class MyApplicationService {
 
